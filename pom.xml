@@ -361,7 +361,7 @@
                 <configuration>
                  <!--   <server>tomcat-development-server</server>-->
                     <server>192.168.0.170</server>
-                    <port>8080</port>
+                    <port>9966</port>
                     <path>/petclinic</path>
                 </configuration>
             </plugin>
