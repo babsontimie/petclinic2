@@ -359,7 +359,8 @@
                 <artifactId>tomcat7-maven-plugin</artifactId>
                 <version>2.2</version>
                 <configuration>
-                    <server>tomcat-development-server</server>
+                 <!--   <server>tomcat-development-server</server>-->
+                    <server>192.168.0.170</server>
                     <port>8080</port>
                     <path>/petclinic</path>
                 </configuration>
